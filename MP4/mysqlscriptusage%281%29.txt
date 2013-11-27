@@ -1,0 +1,9 @@
+After creating the DB called 'classicmodels'...
+
+
+create AND load the DB with:
+
+
+cd to script folder...
+
+mysql -u root -p classicmodels < scriptfilename
