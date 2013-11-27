@@ -1,0 +1,29 @@
+Polymorphism(Upcasted to Planet abstract superclass) :
+Milkywayplanets{Planet{Name = Mercury, mass = 0.3302x1.0E24Kg, diameter = 4879km, escapeVelocity = 4.25Km/s, revolutionPeriod = 1407.6Hours, meanSurfaceTemperature = 623K}}
+Milkywayplanets{Planet{Name = Venus, mass = 4.87x1.0E24Kg, diameter = 12104km, escapeVelocity = 10.4Km/s, revolutionPeriod = 5832.24Hours, meanSurfaceTemperature = 750K}}
+Milkywayplanets{Planet{Name = Earth, mass = 5.976x1.0E24Kg, diameter = 12756km, escapeVelocity = 11.2Km/s, revolutionPeriod = 23.93Hours, meanSurfaceTemperature = 293K}}
+Milkywayplanets{Planet{Name = Mars, mass = 64.2x1.0E24Kg, diameter = 6794km, escapeVelocity = 5.0Km/s, revolutionPeriod = 24.0Hours, meanSurfaceTemperature = 293K}}
+Milkywayplanets{Planet{Name = Jupiter, mass = 1898.0x1.0E24Kg, diameter = 139822km, escapeVelocity = 60.0Km/s, revolutionPeriod = 10.0Hours, meanSurfaceTemperature = 163K}}
+Milkywayplanets{Planet{Name = Saturn, mass = 568.3x1.0E24Kg, diameter = 120000km, escapeVelocity = 35.6Km/s, revolutionPeriod = 10.0Hours, meanSurfaceTemperature = 93K}}
+Milkywayplanets{Planet{Name = Uranus, mass = 86.81x1.0E24Kg, diameter = 51120km, escapeVelocity = 21.2Km/s, revolutionPeriod = 17.2Hours, meanSurfaceTemperature = 57K}}
+Milkywayplanets{Planet{Name = Neptune, mass = 102.4x1.0E24Kg, diameter = 49528km, escapeVelocity = 23.6Km/s, revolutionPeriod = 16.11Hours, meanSurfaceTemperature = 57K}}
+Milkywayplanets{Planet{Name = Pluto, mass = 1.3x1.0E24Kg, diameter = 2290km, escapeVelocity = 1.0Km/s, revolutionPeriod = 153.29Hours, meanSurfaceTemperature = 50K}}
+
+Polymorphism(Upcasted to Object super-superclass) :
+Milkywayplanets{Planet{Name = Mercury, mass = 0.3302x1.0E24Kg, diameter = 4879km, escapeVelocity = 4.25Km/s, revolutionPeriod = 1407.6Hours, meanSurfaceTemperature = 623K}}
+Milkywayplanets{Planet{Name = Venus, mass = 4.87x1.0E24Kg, diameter = 12104km, escapeVelocity = 10.4Km/s, revolutionPeriod = 5832.24Hours, meanSurfaceTemperature = 750K}}
+Milkywayplanets{Planet{Name = Earth, mass = 5.976x1.0E24Kg, diameter = 12756km, escapeVelocity = 11.2Km/s, revolutionPeriod = 23.93Hours, meanSurfaceTemperature = 293K}}
+Milkywayplanets{Planet{Name = Mars, mass = 64.2x1.0E24Kg, diameter = 6794km, escapeVelocity = 5.0Km/s, revolutionPeriod = 24.0Hours, meanSurfaceTemperature = 293K}}
+Milkywayplanets{Planet{Name = Jupiter, mass = 1898.0x1.0E24Kg, diameter = 139822km, escapeVelocity = 60.0Km/s, revolutionPeriod = 10.0Hours, meanSurfaceTemperature = 163K}}
+Milkywayplanets{Planet{Name = Saturn, mass = 568.3x1.0E24Kg, diameter = 120000km, escapeVelocity = 35.6Km/s, revolutionPeriod = 10.0Hours, meanSurfaceTemperature = 93K}}
+Milkywayplanets{Planet{Name = Uranus, mass = 86.81x1.0E24Kg, diameter = 51120km, escapeVelocity = 21.2Km/s, revolutionPeriod = 17.2Hours, meanSurfaceTemperature = 57K}}
+Milkywayplanets{Planet{Name = Neptune, mass = 102.4x1.0E24Kg, diameter = 49528km, escapeVelocity = 23.6Km/s, revolutionPeriod = 16.11Hours, meanSurfaceTemperature = 57K}}
+Milkywayplanets{Planet{Name = Pluto, mass = 1.3x1.0E24Kg, diameter = 2290km, escapeVelocity = 1.0Km/s, revolutionPeriod = 153.29Hours, meanSurfaceTemperature = 50K}}
+
+Mercury Mass : 0.3302x1.0E24Kg
+Jupiter Mass : 1898.0x1.0E24Kg
+Mercury's mass smaller than Jupiter's mass
+
+Mercury Diameter : 4879.0km
+Jupiter Diameter : 139822.0km
+Jupiter's diameter greater than Mercury's diameter
