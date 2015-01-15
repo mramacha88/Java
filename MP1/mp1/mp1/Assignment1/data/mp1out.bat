@@ -1,1 +1,0 @@
-java -jar Assignment1.jar > mp1out.txt
